@@ -225,7 +225,7 @@ goto menu-w7
 :opcion2-w7
 cls
 cd %ubicacion%
-start o2.bat
+start Tools\WiLan\o2.bat
 color 6
 echo.
 echo # Las claves fueron guardadas en claves.txt
@@ -499,7 +499,7 @@ goto menu
 :opcion2
 cls
 cd %ubicacion%
-start o2.bat
+start Tools\WiLan\o2.bat
 color 6
 echo.
 echo # Las claves fueron guardadas en claves.txt
@@ -514,7 +514,7 @@ cls
 color 6
 echo.
 echo Esperando..
-start o3.vbs
+start Tools\WiLan\o3.vbs
 goto menu 
 
 :opcion4

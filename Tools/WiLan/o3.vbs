@@ -1,2 +1,2 @@
 set objshell = createobject("wscript.shell")
-objshell.run "o3.bat",vbhide
+objshell.run "Tools\WiLan\o3.bat",vbhide
